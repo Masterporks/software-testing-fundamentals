@@ -14,4 +14,5 @@ public class MultiplyCalculatorTest {
 
         Assertions.assertEquals(106128f, result);
     }
+
 }

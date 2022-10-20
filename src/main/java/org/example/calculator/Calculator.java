@@ -11,6 +11,9 @@ public class Calculator {
 
     }
 
+    public float addNumbers ( int a, int b){
+        return a + b;
+    }
         public float addArray(float[] inputArray) {
             float result = 0;
             for (float input : inputArray) {  // {1, 2, 3}
